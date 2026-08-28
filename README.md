@@ -1,21 +1,16 @@
-<h2 align="center">
-  Hola, soy Thiago Miranda 👋
-</h2>
-
 <p align="center">
   <img src="https://i.imgur.com/J9zTHwv.jpeg" width="100%" alt="Thiago Miranda - Software Developer">
 </p>
-<!--
-**thiagofalkievich/thiagofalkievich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://www.instagram.com/thiagomiranda379/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-thiagomiranda379-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/thiago-miranda-undefined-411834382/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Thiago_Miranda-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:thiago.miranda.work@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-thiago.miranda.work%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
