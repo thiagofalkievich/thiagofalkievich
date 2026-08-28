@@ -3,7 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/thiagomiranda379/"><img src="https://img.shields.io/badge/Instagram-ffffff?style=flat-square&logo=instagram&logoColor=000000&labelColor=ffffff"></a>
-  <a href="https://www.linkedin.com/in/thiago-miranda-undefined-411834382/"><img src="https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square&logo=linkedin&logoColor=000000&labelColor=ffffff"></a>
-  <a href="mailto:thiago.miranda.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-ffffff?style=flat-square&logo=gmail&logoColor=000000&labelColor=ffffff"></a>
+  <a href="https://www.instagram.com/thiagomiranda379/" target="_blank">
+    <img height="22" src="https://img.shields.io/badge/Instagram-f5f5f5?style=flat&logo=instagram&logoColor=111111&labelColor=f5f5f5" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/thiago-miranda-undefined-411834382/" target="_blank">
+    <img height="22" src="https://img.shields.io/badge/LinkedIn-f5f5f5?style=flat&logo=linkedin&logoColor=111111&labelColor=f5f5f5" alt="LinkedIn" />
+  </a>
+  <a href="mailto:thiago.miranda.work@gmail.com" target="_blank">
+    <img height="22" src="https://img.shields.io/badge/Gmail-f5f5f5?style=flat&logo=gmail&logoColor=111111&labelColor=f5f5f5" alt="Gmail" />
+  </a>
 </p>
