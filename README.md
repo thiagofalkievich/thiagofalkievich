@@ -20,3 +20,5 @@ Hi! I'm Thiago Miranda, a 22-year-old Software Development student from Corrient
 I'm currently studying Software Development and I plan to continue my education with a degree in Systems in the future.
 
 I'm passionate about technology, programming and building projects that allow me to keep learning and improving my skills.
+
+## Projects
