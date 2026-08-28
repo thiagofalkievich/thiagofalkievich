@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://imgur.com/a/q8TJZVp" width="100%" alt="Thiago Miranda - Software Developer">
+  <img src="https://i.imgur.com/J9zTHwv.jpeg" width="100%" alt="Thiago Miranda - Software Developer">
 </p>
 <!--
 **thiagofalkievich/thiagofalkievich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
