@@ -34,7 +34,6 @@ A system developed during an international hackathon to analyze clinical data, d
 - Definition of detection and prioritization logic
 - Backend and dashboard integration
 - Use of AI tools to support the development process
-- Technical presentation and project defense
 
 **Technologies:** Python · FastAPI · Pandas · Next.js · SQLite
 
