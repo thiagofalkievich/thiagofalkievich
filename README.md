@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hola soy Thiago Miranda 👋
+<h2 align="center">
+  Hola, soy Thiago Miranda 👋
+</h2>
 
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Thiago Miranda - Software Developer">
+</p>
 <!--
 **thiagofalkievich/thiagofalkievich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
