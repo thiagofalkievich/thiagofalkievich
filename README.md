@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/J9zTHwv.jpeg" width="100%" alt="Thiago Miranda - Software Developer">
 </p>
 
-<p align="center">
+
   <a href="https://www.instagram.com/thiagomiranda379/" target="_blank">
     <img height="22" src="https://img.shields.io/badge/Instagram-f5f5f5?style=flat&logo=instagram&logoColor=111111&labelColor=f5f5f5" alt="Instagram" />
   </a>
@@ -12,4 +12,4 @@
   <a href="mailto:thiago.miranda.work@gmail.com" target="_blank">
     <img height="22" src="https://img.shields.io/badge/Gmail-f5f5f5?style=flat&logo=gmail&logoColor=111111&labelColor=f5f5f5" alt="Gmail" />
   </a>
-</p>
+
