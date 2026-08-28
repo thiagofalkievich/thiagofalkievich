@@ -38,6 +38,10 @@ Sistema desarrollado durante una hackathon para analizar información clínica, 
 
 **Tecnologías:** Python · FastAPI · Pandas · Next.js · SQLite
 
+<p align="center">
+  <img src="LINK_DE_LA_IMAGEN" width="850" alt="Dashboard de TriageMed">
+</p>
+
 <a href="https://github.com/K3RNEL-Organization/Hackathon-Internacional">
   <img src="https://img.shields.io/badge/Repositorio-GitHub-181717?style=flat&logo=github&logoColor=white">
 </a>
