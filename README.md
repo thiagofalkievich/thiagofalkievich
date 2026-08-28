@@ -38,7 +38,7 @@ A system developed during an international hackathon to analyze clinical data, d
 **Technologies:** Python · FastAPI · Pandas · Next.js · SQLite
 
 <p align="center">
-  <img src="LINK_DE_LA_IMAGEN" width="850" alt="TriageMed Dashboard">
+  <img src="https://i.imgur.com/nUKzr7H.jpeg" width="850" alt="TriageMed Dashboard">
 </p>
 
 <a href="https://github.com/K3RNEL-Organization/Hackathon-Internacional">
