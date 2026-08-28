@@ -34,7 +34,6 @@ Sistema desarrollado durante una hackathon para analizar información clínica, 
 - Definición de la lógica de detección y priorización
 - Integración del backend y dashboard
 - Uso de herramientas de IA como apoyo durante el desarrollo
-- Presentación y defensa técnica del proyecto
 
 **Tecnologías:** Python · FastAPI · Pandas · Next.js · SQLite
 
