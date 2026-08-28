@@ -22,3 +22,17 @@ I'm currently studying Software Development and I plan to continue my education 
 I'm passionate about technology, programming and building projects that allow me to keep learning and improving my skills.
 
 ## Projects
+
+### 🏥 TriageMed — Hackathon Project
+
+Sistema desarrollado durante una hackathon para analizar información clínica, detectar señales de riesgo y priorizar pacientes.
+
+**Mi participación:**
+- Análisis del problema y diseño de la solución
+- Procesamiento y validación de datos
+- Definición de la lógica de detección y priorización
+- Integración del backend y dashboard
+- Uso de herramientas de IA como apoyo durante el desarrollo
+- Presentación y defensa técnica del proyecto
+
+**Tecnologías:** Python · FastAPI · Pandas · Next.js · SQLite
