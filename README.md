@@ -23,11 +23,12 @@ I'm passionate about technology, programming and building projects that allow me
 
 ## Projects
 
-### 🏥 TriageMed — Hackathon Project
+### [🏥 TriageMed — Hackathon Project](https://github.com/K3RNEL-Organization/Hackathon-Internacional)
 
 Sistema desarrollado durante una hackathon para analizar información clínica, detectar señales de riesgo y priorizar pacientes.
 
 **Mi participación:**
+
 - Análisis del problema y diseño de la solución
 - Procesamiento y validación de datos
 - Definición de la lógica de detección y priorización
@@ -36,3 +37,7 @@ Sistema desarrollado durante una hackathon para analizar información clínica, 
 - Presentación y defensa técnica del proyecto
 
 **Tecnologías:** Python · FastAPI · Pandas · Next.js · SQLite
+
+<a href="https://github.com/K3RNEL-Organization/Hackathon-Internacional">
+  <img src="https://img.shields.io/badge/Repositorio-GitHub-181717?style=flat&logo=github&logoColor=white">
+</a>
