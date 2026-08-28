@@ -34,7 +34,7 @@ A system developed during an international hackathon to analyze clinical data, d
 - Definition of detection and prioritization logic
 - Backend and dashboard integration
 - Use of AI tools to support the development process
-
+- Teamwork
 **Technologies:** Python · FastAPI · Pandas · Next.js · SQLite
 
 <img src="https://i.imgur.com/nUKzr7H.jpeg" width="850" alt="TriageMed Dashboard">
